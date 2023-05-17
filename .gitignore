@@ -1,0 +1,4 @@
+*.log
+dir_*_build*/
+
+logs/in*
